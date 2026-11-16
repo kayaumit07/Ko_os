@@ -89,9 +89,4 @@ AI is highly inaccurate, makes things up on a whim (i.e. hallucinates) and is co
 Regarding the code quality itself, it will regurgitate patterns it's seen, good or bad (mostly bad). The code may not even address what you're intending it to address.
 
 We expect a certain level of code quality in our codebase (which we're happy to work with you to help improve your code before we merge it into our codebase -- **if you wrote it yourself**).
-AI, however, is a waste of everybody's time.
-
-AI usage is reasonably easy for us to detect.
-
-Please do not use AI. Thank you.
 
