@@ -95,6 +95,3 @@ AI usage is reasonably easy for us to detect.
 
 Please do not use AI. Thank you.
 
-<p align="center">
-	<img src="https://github.com/Open-KO/KnightOnline/blob/master/openko_example.png?raw=true" />
-</p>
