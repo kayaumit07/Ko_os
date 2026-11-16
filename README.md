@@ -79,14 +79,4 @@ The PR must respect our goals as outlined above. That is, no asset changes, feat
 ### It must be made / written by you
 The change must have been made / written by you. If contributing on behalf of someone else, then this should be acknowledged.
 
-### No AI use
-This is somewhat an extension of the previous rule (as the code must be your own), but as enticing as AI is for "convenience", and how much it is pushed in virtually all areas of our day-to-day life, it is a poor replacement for a human's own critical thinking.
-The purpose of this project is for academic/learning purposes. You should not be trying to learn from AI.
-
-At absolute best, it is acceptable to use it to (after you've done so yourself already) verify your work and try to spot any issues. But even here, anything it says should be taken with a huge grain of salt.
-AI is highly inaccurate, makes things up on a whim (i.e. hallucinates) and is confident enough to persist in telling you that it's not until you push back (and even then, it may still not budge).
-
-Regarding the code quality itself, it will regurgitate patterns it's seen, good or bad (mostly bad). The code may not even address what you're intending it to address.
-
-We expect a certain level of code quality in our codebase (which we're happy to work with you to help improve your code before we merge it into our codebase -- **if you wrote it yourself**).
 
