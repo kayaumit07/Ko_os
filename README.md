@@ -4,8 +4,6 @@
 > This project **cannot currently be used for a real server**. It is still in a very early developmental state.
 > The server and client are both lacking full (or any) support in numerous critical features; upgrades, wars, even basic exchanges, etc, let alone things like the Power-Up Store.
 
-# Open Knight Online (OpenKO)
-
 We started this project to learn more about how the MMORPG Knight Online works. MMORPGs are very intricate programs requiring knowledge in many areas of computer science such as TCP/IP, SQL server, performance tuning, 3D graphics and animation, load balancing, etc. Starting with the original leaked source, we have updated to DirectX 9, added function flags so that various file formats may be supported while remaining backwards compatible, and much, much more.
 
 If you have questions, or would like help getting started, feel free visit [our Discord](https://discord.gg/Uy73SMMjWS).
